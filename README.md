@@ -7,3 +7,5 @@
 
 - https://www.youtube.com/watch?v=_w-iYiEXrl0
 - https://m2.material.io/design/layout/responsive-layout-grid.html#columns-gutters-and-margins
+- https://type-scale.com/
+- https://shortcuts.design/tools/toolspage-figma/
